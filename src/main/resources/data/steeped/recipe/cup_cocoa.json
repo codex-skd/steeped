@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    { "item": "steeped:cup" },
+    { "item": "minecraft:cocoa_beans" },
+    { "item": "minecraft:cocoa_beans" },
+    { "item": "steeped:teapot_frothed" }
+  ],
+  "result": { "id": "steeped:cup_cocoa", "count": 1 }
+}

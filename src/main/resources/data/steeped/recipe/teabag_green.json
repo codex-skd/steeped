@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "steeped:teabag",
+  "ingredients": [
+    { "item": "steeped:teabag" },
+    { "item": "steeped:tea_leaf" },
+    { "item": "steeped:tea_leaf" }
+  ],
+  "result": { "id": "steeped:teabag_green", "count": 1 }
+}

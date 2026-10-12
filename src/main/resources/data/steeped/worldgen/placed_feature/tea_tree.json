@@ -1,0 +1,14 @@
+{
+  "feature": "steeped:tea_tree",
+  "placement": [
+    { "type": "steeped:tree_gen_enabled" },
+    { "type": "minecraft:rarity_filter", "chance": 128 },
+    { "type": "minecraft:in_square" },
+    { "type": "minecraft:heightmap", "heightmap": "WORLD_SURFACE" },
+    { "type": "minecraft:biome" },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": { "type": "minecraft:would_survive", "state": { "Name": "steeped:tea_sapling" } }
+    }
+  ]
+}

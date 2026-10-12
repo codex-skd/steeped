@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "steeped:teabag",
+  "ingredients": [
+    { "item": "steeped:teabag" },
+    { "item": "minecraft:dandelion" },
+    { "item": "minecraft:dandelion" }
+  ],
+  "result": { "id": "steeped:teabag_floral", "count": 1 }
+}

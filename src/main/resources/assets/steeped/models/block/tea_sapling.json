@@ -1,0 +1,8 @@
+{
+	"__comment": "Designed by Elucent with Cubik Studio - https://cubik.studio",
+	"parent":"block/cross",
+	"textures": {
+		"particle": "steeped:block/tea_sapling",
+		"cross": "steeped:block/tea_sapling"
+	}
+}

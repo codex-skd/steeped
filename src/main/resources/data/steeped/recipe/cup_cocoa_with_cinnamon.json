@@ -1,0 +1,7 @@
+{
+  "type": "steeped:shapeless_honey",
+  "group": "steeped:with_cinnamon",
+  "tea": "steeped:cup_cocoa",
+  "honey": { "item": "steeped:tea_stick" },
+  "tag": "with_cinnamon"
+}

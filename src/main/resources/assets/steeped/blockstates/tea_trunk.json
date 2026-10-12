@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "type=stump,clipped=false": { "model": "steeped:block/tree/stump" },
+    "type=stump,clipped=true": { "model": "steeped:block/tree/stump" },
+    "type=bottom,clipped=false": { "model": "steeped:block/tree/bottom" },
+    "type=bottom,clipped=true": { "model": "steeped:block/tree/bottom_clipped" },
+    "type=middle,clipped=false": { "model": "steeped:block/tree/middle" },
+    "type=middle,clipped=true": { "model": "steeped:block/tree/middle_clipped" },
+    "type=top,clipped=false": { "model": "steeped:block/tree/top" },
+    "type=top,clipped=true": { "model": "steeped:block/tree/top_clipped" },
+    "type=north,clipped=false": { "model": "steeped:block/tree/branch" },
+    "type=north,clipped=true": { "model": "steeped:block/tree/branch_clipped" },
+    "type=east,clipped=false": { "model": "steeped:block/tree/branch", "y": 90 },
+    "type=east,clipped=true": { "model": "steeped:block/tree/branch_clipped", "y": 90 },
+    "type=south,clipped=false": { "model": "steeped:block/tree/branch", "y": 180 },
+    "type=south,clipped=true": { "model": "steeped:block/tree/branch_clipped", "y": 180 },
+    "type=west,clipped=false": { "model": "steeped:block/tree/branch", "y": 270 },
+    "type=west,clipped=true": { "model": "steeped:block/tree/branch_clipped", "y": 270 }
+  }
+}
