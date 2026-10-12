@@ -1,9 +1,9 @@
 # CurseForge — Variables del proyecto
 
-> Leídas por `codex-docs/scripts/curseforge-upload.ps1`. **No versionar tokens reales**: el API token de cuenta está en `codex-docs/secrets.md`; copiarlo aquí solo en local cuando se vaya a subir.
+> Leídas por `codex-docs/scripts/curseforge-upload.ps1`. IDs verificados con la API: 9638 Client, 9639 Server, 11779 1.21.1, 10150 NeoForge. **No se guarda el token en este fichero**: la subida se hace con curl leyendo `codex-docs/secrets.md`.
 
 project_id = 1740348
-game_versions = PENDIENTE (incluir siempre Client y Server + 1.21.1 + NeoForge; consultar IDs con la API de game versions)
+game_versions = 9638, 9639, 11779, 10150
 release_type = beta
 relations =
 
