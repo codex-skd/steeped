@@ -1,0 +1,661 @@
+{
+  "communities": {
+    "0": [
+      "blocks",
+      "configuredfeature",
+      "creativemodetab",
+      "deferredblock",
+      "deferredholder",
+      "deferreditem",
+      "deferredregister",
+      "fenceblock",
+      "fencegateblock",
+      "flowerpotblock",
+      "fmlcommonsetupevent",
+      "mobeffect",
+      "placedfeature",
+      "resourcekey",
+      "saplingblock",
+      "src_main_java_com_skd_steeped_core_registration",
+      "src_main_java_com_skd_steeped_core_registration_java_blockitem",
+      "src_main_java_com_skd_steeped_core_registration_java_feature",
+      "src_main_java_com_skd_steeped_core_registration_java_ieventbus",
+      "src_main_java_com_skd_steeped_core_registration_java_igloballootmodifier",
+      "src_main_java_com_skd_steeped_core_registration_java_item",
+      "src_main_java_com_skd_steeped_core_registration_java_mapcodec",
+      "src_main_java_com_skd_steeped_core_registration_java_mobeffect",
+      "src_main_java_com_skd_steeped_core_registration_java_placementmodifiertype",
+      "src_main_java_com_skd_steeped_core_registration_java_recipeserializer",
+      "src_main_java_com_skd_steeped_core_registration_registration",
+      "src_main_java_com_skd_steeped_core_registration_registration_init",
+      "src_main_java_com_skd_steeped_core_registration_registration_registermisc",
+      "src_main_java_com_skd_steeped_core_registration_registration_woodproperties",
+      "src_main_java_com_skd_steeped_potion_caffeinatedeffect",
+      "src_main_java_com_skd_steeped_potion_caffeinatedeffect_caffeinatedeffect",
+      "src_main_java_com_skd_steeped_potion_caffeinatedeffect_caffeinatedeffect_caffeinatedeffect",
+      "src_main_java_com_skd_steeped_potion_enderfallingeffect",
+      "src_main_java_com_skd_steeped_potion_enderfallingeffect_enderfallingeffect",
+      "src_main_java_com_skd_steeped_potion_enderfallingeffect_enderfallingeffect_enderfallingeffect",
+      "src_main_java_com_skd_steeped_potion_invigoratedeffect",
+      "src_main_java_com_skd_steeped_potion_invigoratedeffect_invigoratedeffect",
+      "src_main_java_com_skd_steeped_potion_invigoratedeffect_invigoratedeffect_invigoratedeffect",
+      "src_main_java_com_skd_steeped_potion_relaxedeffect",
+      "src_main_java_com_skd_steeped_potion_relaxedeffect_java_livingentity",
+      "src_main_java_com_skd_steeped_potion_relaxedeffect_java_override",
+      "src_main_java_com_skd_steeped_potion_relaxedeffect_relaxedeffect",
+      "src_main_java_com_skd_steeped_potion_relaxedeffect_relaxedeffect_applyeffecttick",
+      "src_main_java_com_skd_steeped_potion_relaxedeffect_relaxedeffect_relaxedeffect",
+      "src_main_java_com_skd_steeped_potion_relaxedeffect_relaxedeffect_shouldapplyeffecttickthistick",
+      "src_main_java_com_skd_steeped_potion_restfuleffect",
+      "src_main_java_com_skd_steeped_potion_restfuleffect_java_holder",
+      "src_main_java_com_skd_steeped_potion_restfuleffect_java_livingentity",
+      "src_main_java_com_skd_steeped_potion_restfuleffect_restfuleffect",
+      "src_main_java_com_skd_steeped_potion_restfuleffect_restfuleffect_addconflict",
+      "src_main_java_com_skd_steeped_potion_restfuleffect_restfuleffect_removeconflicts",
+      "src_main_java_com_skd_steeped_potion_restfuleffect_restfuleffect_restfuleffect",
+      "src_main_java_com_skd_steeped_worldgen_teatreegrower",
+      "src_main_java_com_skd_steeped_worldgen_teatreegrower_teatreegrower",
+      "treegrower"
+    ],
+    "1": [
+      "block",
+      "blockgetter",
+      "blockhitresult",
+      "booleanproperty",
+      "collisioncontext",
+      "enumproperty",
+      "iteminteractionresult",
+      "levelreader",
+      "src_main_java_com_skd_steeped_block_teatrunkblock",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_fromindex",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_getindex",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_getserializedname",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_blockpos",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_blockstate",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_builder",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_interactionhand",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_itemstack",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_level",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_override",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_player",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_randomsource",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_resourcelocation",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_java_serverlevel",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock_createblockstatedefinition",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock_getcloneitemstack",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock_getshape",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock_teatrunkblock",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock_tick",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock_useitemon",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_bottom",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_east",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_middle",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_north",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_south",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_stump",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_top",
+      "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype_west",
+      "stringrepresentable",
+      "voxelshape"
+    ],
+    "2": [
+      "effectcure",
+      "mobeffectinstance",
+      "nullable",
+      "src_main_java_com_skd_steeped_core_config_teadrink",
+      "src_main_java_com_skd_steeped_core_config_teadrink_getdescription",
+      "src_main_java_com_skd_steeped_core_config_teadrink_geteffect",
+      "src_main_java_com_skd_steeped_core_config_teadrink_islevel",
+      "src_main_java_com_skd_steeped_core_config_teadrink_java_builder",
+      "src_main_java_com_skd_steeped_core_config_teadrink_java_holder",
+      "src_main_java_com_skd_steeped_core_config_teadrink_java_intvalue",
+      "src_main_java_com_skd_steeped_core_config_teadrink_java_mobeffect",
+      "src_main_java_com_skd_steeped_core_config_teadrink_java_override",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teadrink",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teadrink_geteffect",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teadrink_teadrink",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect_absorption",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect_caffeinated",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect_enderfalling",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect_invigorated",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect_relaxed",
+      "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect_restful",
+      "src_main_java_com_skd_steeped_core_config_teadrink_tostring",
+      "src_main_java_com_skd_steeped_item_teacupitem",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_component",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_itemstack",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_level",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_livingentity",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_override",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_tooltipcontext",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_tooltipflag",
+      "src_main_java_com_skd_steeped_item_teacupitem_java_useanim",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_appendhovertext",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_finishusingitem",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_getcraftingremainingitem",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_getuseanimation",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_hashoney",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_isbarvisible",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_teacupitem"
+    ],
+    "3": [
+      "enumvalue",
+      "modconfigspec",
+      "src_main_java_com_skd_steeped_core_config",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cleartype",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cleartype_all",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cleartype_negative",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cleartype_none",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cocoadrink",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cocoadrink_clearseffects",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cocoadrink_clearspositive",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_cocoadrink_cocoadrink",
+      "src_main_java_com_skd_steeped_core_config_cocoadrink_java_builder",
+      "src_main_java_com_skd_steeped_core_config_config",
+      "src_main_java_com_skd_steeped_core_config_java_builder",
+      "src_main_java_com_skd_steeped_core_config_server",
+      "src_main_java_com_skd_steeped_core_config_server_server",
+      "src_main_java_com_skd_steeped_core_config_teapot",
+      "src_main_java_com_skd_steeped_core_config_teapot_java_booleanvalue",
+      "src_main_java_com_skd_steeped_core_config_teapot_java_builder",
+      "src_main_java_com_skd_steeped_core_config_teapot_java_intvalue",
+      "src_main_java_com_skd_steeped_core_config_teapot_teapot",
+      "src_main_java_com_skd_steeped_core_config_teapot_teapot_canmilkcows",
+      "src_main_java_com_skd_steeped_core_config_teapot_teapot_fillfromcauldron",
+      "src_main_java_com_skd_steeped_core_config_teapot_teapot_infinitewater",
+      "src_main_java_com_skd_steeped_core_config_teapot_teapot_teapot",
+      "src_main_java_com_skd_steeped_core_config_teapot_teapot_teapotcapacity",
+      "src_main_java_com_skd_steeped_core_config_tree",
+      "src_main_java_com_skd_steeped_core_config_tree_java_booleanvalue",
+      "src_main_java_com_skd_steeped_core_config_tree_java_builder",
+      "src_main_java_com_skd_steeped_core_config_tree_java_doublevalue",
+      "src_main_java_com_skd_steeped_core_config_tree_tree",
+      "src_main_java_com_skd_steeped_core_config_tree_tree_generate",
+      "src_main_java_com_skd_steeped_core_config_tree_tree_regrowthchance",
+      "src_main_java_com_skd_steeped_core_config_tree_tree_tree"
+    ],
+    "4": [
+      "fluid",
+      "fluidaction",
+      "fluidstack",
+      "ifluidhandleritem",
+      "interactionresult",
+      "interactionresultholder",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_drain",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_fill",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_fluidteapotwrapper",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_getcontainer",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_getfluidintank",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_gettankcapacity",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_gettanks",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_isfluidvalid",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_ismilk",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper_iswater",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_java_itemstack",
+      "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_java_override",
+      "src_main_java_com_skd_steeped_item_teapotitem",
+      "src_main_java_com_skd_steeped_item_teapotitem_java_interactionhand",
+      "src_main_java_com_skd_steeped_item_teapotitem_java_itemstack",
+      "src_main_java_com_skd_steeped_item_teapotitem_java_level",
+      "src_main_java_com_skd_steeped_item_teapotitem_java_livingentity",
+      "src_main_java_com_skd_steeped_item_teapotitem_java_override",
+      "src_main_java_com_skd_steeped_item_teapotitem_java_player",
+      "src_main_java_com_skd_steeped_item_teapotitem_teapotitem",
+      "src_main_java_com_skd_steeped_item_teapotitem_teapotitem_interactlivingentity",
+      "src_main_java_com_skd_steeped_item_teapotitem_teapotitem_teapotitem",
+      "src_main_java_com_skd_steeped_item_teapotitem_teapotitem_use"
+    ],
+    "5": [
+      "enderpearl",
+      "fmlclientsetupevent",
+      "livingfallevent",
+      "logger",
+      "mod",
+      "modcontainer",
+      "playerwakeupevent",
+      "src_main_java_com_skd_steeped_core_clientevents",
+      "src_main_java_com_skd_steeped_core_clientevents_clientevents",
+      "src_main_java_com_skd_steeped_core_clientevents_clientevents_registerblockcolors",
+      "src_main_java_com_skd_steeped_core_clientevents_clientevents_registerclientevents",
+      "src_main_java_com_skd_steeped_core_clientevents_clientevents_registermisc",
+      "src_main_java_com_skd_steeped_core_clientevents_java_block",
+      "src_main_java_com_skd_steeped_core_clientevents_java_ieventbus",
+      "src_main_java_com_skd_steeped_core_events",
+      "src_main_java_com_skd_steeped_core_events_events",
+      "src_main_java_com_skd_steeped_core_events_events_entityfall",
+      "src_main_java_com_skd_steeped_core_events_events_playerwakeup",
+      "src_main_java_com_skd_steeped_core_events_events_registerevents",
+      "src_main_java_com_skd_steeped_core_events_events_throwenderpearl",
+      "src_main_java_com_skd_steeped_core_events_java_ieventbus",
+      "src_main_java_com_skd_steeped_steeped",
+      "src_main_java_com_skd_steeped_steeped_java_ieventbus",
+      "src_main_java_com_skd_steeped_steeped_steeped",
+      "src_main_java_com_skd_steeped_steeped_steeped_steeped"
+    ],
+    "6": [
+      "craftinginput",
+      "ingredient",
+      "nonnulllist",
+      "provider",
+      "registryfriendlybytebuf",
+      "shapelessrecipe",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_java_item",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_java_itemstack",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_java_level",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_java_mapcodec",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_java_override",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_java_recipeserializer",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_serializer",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_serializer_codec",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_serializer_streamcodec",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_shapelesshoneyrecipe",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_shapelesshoneyrecipe_assemble",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_shapelesshoneyrecipe_getremainingitems",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_shapelesshoneyrecipe_getserializer",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_shapelesshoneyrecipe_matches",
+      "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_shapelesshoneyrecipe_shapelesshoneyrecipe",
+      "src_main_java_com_skd_steeped_item_teacupitem_teacupitem_withhoney",
+      "streamcodec"
+    ],
+    "7": [
+      "item",
+      "src_main_java_com_skd_steeped_item_hotteapotitem",
+      "src_main_java_com_skd_steeped_item_hotteapotitem_hotteapotitem",
+      "src_main_java_com_skd_steeped_item_hotteapotitem_hotteapotitem_getcraftingremainingitem",
+      "src_main_java_com_skd_steeped_item_hotteapotitem_hotteapotitem_hotteapotitem",
+      "src_main_java_com_skd_steeped_item_hotteapotitem_java_itemstack",
+      "src_main_java_com_skd_steeped_item_hotteapotitem_java_override",
+      "src_main_java_com_skd_steeped_item_teastickitem",
+      "src_main_java_com_skd_steeped_item_teastickitem_java_itemstack",
+      "src_main_java_com_skd_steeped_item_teastickitem_java_override",
+      "src_main_java_com_skd_steeped_item_teastickitem_java_recipetype",
+      "src_main_java_com_skd_steeped_item_teastickitem_teastickitem",
+      "src_main_java_com_skd_steeped_item_teastickitem_teastickitem_getburntime",
+      "src_main_java_com_skd_steeped_item_teastickitem_teastickitem_teastickitem",
+      "src_main_java_com_skd_steeped_item_tooltipitem",
+      "src_main_java_com_skd_steeped_item_tooltipitem_java_component",
+      "src_main_java_com_skd_steeped_item_tooltipitem_java_itemstack",
+      "src_main_java_com_skd_steeped_item_tooltipitem_java_override",
+      "src_main_java_com_skd_steeped_item_tooltipitem_java_tooltipcontext",
+      "src_main_java_com_skd_steeped_item_tooltipitem_java_tooltipflag",
+      "src_main_java_com_skd_steeped_item_tooltipitem_tooltipitem",
+      "src_main_java_com_skd_steeped_item_tooltipitem_tooltipitem_appendhovertext",
+      "src_main_java_com_skd_steeped_item_tooltipitem_tooltipitem_tooltipitem"
+    ],
+    "8": [
+      "lootcontext",
+      "lootitemcondition",
+      "lootitemfunction",
+      "lootmodifier",
+      "lootpoolentrycontainer",
+      "objectarraylist",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_addentrylootmodifier",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_addentrylootmodifier_addentrylootmodifier",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_addentrylootmodifier_codec",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_addentrylootmodifier_doapply",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_java_igloballootmodifier",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_java_itemstack",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_java_mapcodec",
+      "src_main_java_com_skd_steeped_data_addentrylootmodifier_java_override"
+    ],
+    "9": [
+      "src_main_java_com_skd_steeped_item_cocoaitem",
+      "src_main_java_com_skd_steeped_item_cocoaitem_cocoaitem",
+      "src_main_java_com_skd_steeped_item_cocoaitem_cocoaitem_appendhovertext",
+      "src_main_java_com_skd_steeped_item_cocoaitem_cocoaitem_cocoaitem",
+      "src_main_java_com_skd_steeped_item_cocoaitem_cocoaitem_finishusingitem",
+      "src_main_java_com_skd_steeped_item_cocoaitem_cocoaitem_getuseanimation",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_component",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_itemstack",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_level",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_livingentity",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_override",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_tooltipcontext",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_tooltipflag",
+      "src_main_java_com_skd_steeped_item_cocoaitem_java_useanim"
+    ],
+    "10": [
+      "feature",
+      "featureplacecontext",
+      "levelaccessor",
+      "nonefeatureconfiguration",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature_java_blockpos",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature_java_blockstate",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature_java_override",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature_teatreefeature",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature_teatreefeature_place",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature_teatreefeature_setblocksafe",
+      "src_main_java_com_skd_steeped_worldgen_teatreefeature_teatreefeature_teatreefeature"
+    ],
+    "11": [
+      "placementcontext",
+      "placementfilter",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_java_blockpos",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_java_mapcodec",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_java_override",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_java_placementmodifiertype",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_java_randomsource",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_treegenenabledplacement",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_treegenenabledplacement_shouldplace",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_treegenenabledplacement_treegenenabledplacement",
+      "src_main_java_com_skd_steeped_worldgen_treegenenabledplacement_treegenenabledplacement_type"
+    ],
+    "12": [
+      "foodproperties",
+      "src_main_java_com_skd_steeped_core_config_drink",
+      "src_main_java_com_skd_steeped_core_config_drink_drink",
+      "src_main_java_com_skd_steeped_core_config_drink_drink_drink",
+      "src_main_java_com_skd_steeped_core_config_drink_drink_getfoodproperties",
+      "src_main_java_com_skd_steeped_core_config_drink_drink_hunger",
+      "src_main_java_com_skd_steeped_core_config_drink_drink_saturation",
+      "src_main_java_com_skd_steeped_core_config_drink_java_builder",
+      "src_main_java_com_skd_steeped_core_config_drink_java_doublevalue",
+      "src_main_java_com_skd_steeped_core_config_drink_java_intvalue",
+      "src_main_java_com_skd_steeped_core_registration_registration_teaproperties"
+    ],
+    "13": [
+      "src_main_java_com_skd_steeped_core_util",
+      "src_main_java_com_skd_steeped_core_util_java_blockpos",
+      "src_main_java_com_skd_steeped_core_util_java_blockstate",
+      "src_main_java_com_skd_steeped_core_util_java_itemstack",
+      "src_main_java_com_skd_steeped_core_util_java_player",
+      "src_main_java_com_skd_steeped_core_util_java_resourcelocation",
+      "src_main_java_com_skd_steeped_core_util_java_serverlevel",
+      "src_main_java_com_skd_steeped_core_util_util",
+      "src_main_java_com_skd_steeped_core_util_util_getblockloot",
+      "src_main_java_com_skd_steeped_core_util_util_util"
+    ],
+    "14": [
+      "blockitem",
+      "src_main_java_com_skd_steeped_item_woodblockitem",
+      "src_main_java_com_skd_steeped_item_woodblockitem_java_block",
+      "src_main_java_com_skd_steeped_item_woodblockitem_java_itemstack",
+      "src_main_java_com_skd_steeped_item_woodblockitem_java_override",
+      "src_main_java_com_skd_steeped_item_woodblockitem_java_recipetype",
+      "src_main_java_com_skd_steeped_item_woodblockitem_woodblockitem",
+      "src_main_java_com_skd_steeped_item_woodblockitem_woodblockitem_getburntime",
+      "src_main_java_com_skd_steeped_item_woodblockitem_woodblockitem_woodblockitem"
+    ],
+    "15": [
+      "src_main_java_com_skd_steeped_data_simplytags",
+      "src_main_java_com_skd_steeped_data_simplytags_items",
+      "src_main_java_com_skd_steeped_data_simplytags_items_forgetag",
+      "src_main_java_com_skd_steeped_data_simplytags_items_init",
+      "src_main_java_com_skd_steeped_data_simplytags_items_tag",
+      "src_main_java_com_skd_steeped_data_simplytags_java_item",
+      "src_main_java_com_skd_steeped_data_simplytags_simplytags",
+      "src_main_java_com_skd_steeped_data_simplytags_simplytags_init",
+      "tagkey"
+    ],
+    "16": [
+      "gradlew",
+      "gradlew__entry",
+      "gradlew_die",
+      "gradlew_warn"
+    ],
+    "17": [
+      "build"
+    ],
+    "18": [
+      "settings"
+    ],
+    "19": [
+      "src_main_resources_assets_steeped_textures_item_ice_cube"
+    ],
+    "20": [
+      "src_main_resources_assets_steeped_textures_item_tea_leaf"
+    ],
+    "21": [
+      "src_main_resources_assets_steeped_textures_item_tea_stick"
+    ],
+    "22": [
+      "src_main_resources_assets_steeped_textures_item_teabag"
+    ],
+    "23": [
+      "src_main_resources_assets_steeped_textures_item_teabag_black"
+    ],
+    "24": [
+      "src_main_resources_assets_steeped_textures_item_teabag_chamomile"
+    ],
+    "25": [
+      "src_main_resources_assets_steeped_textures_item_teabag_chorus"
+    ],
+    "26": [
+      "src_main_resources_assets_steeped_textures_item_teabag_floral"
+    ],
+    "27": [
+      "src_main_resources_assets_steeped_textures_item_teabag_green"
+    ],
+    "28": [
+      "src_main_resources_assets_steeped_textures_item_teapot"
+    ],
+    "29": [
+      "src_main_resources_assets_steeped_textures_item_teapot_boiling"
+    ],
+    "30": [
+      "src_main_resources_assets_steeped_textures_item_teapot_frothed"
+    ],
+    "31": [
+      "src_main_resources_assets_steeped_textures_item_teapot_milk"
+    ],
+    "32": [
+      "src_main_resources_assets_steeped_textures_item_teapot_unfired"
+    ],
+    "33": [
+      "src_main_resources_assets_steeped_textures_item_teapot_water"
+    ],
+    "34": [
+      "src_main_resources_assets_steeped_textures_mob_effect_caffeinated"
+    ],
+    "35": [
+      "src_main_resources_assets_steeped_textures_mob_effect_enderfalling"
+    ],
+    "36": [
+      "src_main_resources_assets_steeped_textures_mob_effect_invigorated"
+    ],
+    "37": [
+      "src_main_resources_assets_steeped_textures_mob_effect_relaxed"
+    ],
+    "38": [
+      "src_main_resources_assets_steeped_textures_mob_effect_restful"
+    ]
+  },
+  "cohesion": {
+    "0": 0.06801346801346801,
+    "1": 0.09268292682926829,
+    "2": 0.09102564102564102,
+    "3": 0.0773109243697479,
+    "4": 0.14623655913978495,
+    "5": 0.11666666666666667,
+    "6": 0.19202898550724637,
+    "7": 0.11857707509881422,
+    "8": 0.2571428571428571,
+    "9": 0.26373626373626374,
+    "10": 0.2878787878787879,
+    "11": 0.2727272727272727,
+    "12": 0.2727272727272727,
+    "13": 0.3111111111111111,
+    "14": 0.3333333333333333,
+    "15": 0.4166666666666667,
+    "16": 0.8333333333333334,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0
+  },
+  "gods": [
+    {
+      "id": "src_main_java_com_skd_steeped_core_registration_registration",
+      "label": "Registration",
+      "degree": 37
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_block_teatrunkblock_teatrunkblock",
+      "label": "TeaTrunkBlock",
+      "degree": 16
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_item_teacupitem_teacupitem",
+      "label": "TeaCupItem",
+      "degree": 15
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_data_gen_shapelesshoneyrecipe_shapelesshoneyrecipe",
+      "label": "ShapelessHoneyRecipe",
+      "degree": 14
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_fluid_fluidteapotwrapper_fluidteapotwrapper",
+      "label": "FluidTeapotWrapper",
+      "degree": 14
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_block_teatrunkblock_trunktype",
+      "label": "TrunkType",
+      "degree": 13
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_core_config_teadrink_teadrink",
+      "label": "TeaDrink",
+      "degree": 13
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_core_config_drink_drink",
+      "label": "Drink",
+      "degree": 11
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_core_config_teadrink_teaeffect",
+      "label": "TeaEffect",
+      "degree": 11
+    },
+    {
+      "id": "src_main_java_com_skd_steeped_core_config_teapot_teapot",
+      "label": "Teapot",
+      "degree": 11
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Registration",
+      "target": "TeaTrunkBlock",
+      "source_files": [
+        "src/main/java/com/skd/steeped/core/Registration.java",
+        "src/main/java/com/skd/steeped/block/TeaTrunkBlock.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "Server",
+      "target": "TeaDrink",
+      "source_files": [
+        "src/main/java/com/skd/steeped/core/Config.java",
+        "src/main/java/com/skd/steeped/core/config/TeaDrink.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "Registration",
+      "target": "AddEntryLootModifier",
+      "source_files": [
+        "src/main/java/com/skd/steeped/core/Registration.java",
+        "src/main/java/com/skd/steeped/data/AddEntryLootModifier.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "Registration",
+      "target": "ShapelessHoneyRecipe",
+      "source_files": [
+        "src/main/java/com/skd/steeped/core/Registration.java",
+        "src/main/java/com/skd/steeped/data/gen/ShapelessHoneyRecipe.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "Registration",
+      "target": "Items",
+      "source_files": [
+        "src/main/java/com/skd/steeped/core/Registration.java",
+        "src/main/java/com/skd/steeped/data/SimplyTags.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Registration` connect `Block Registration` to `Tea Block`, `Honey Recipe`, `Loot Modifiers`, `Tea Tree Feature`, `Tree Placement`, `Drink Properties`, `Item Tags`?",
+      "why": "High betweenness centrality (0.082) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `TeaCupItem` connect `Tea Drink` to `Block Registration`, `Cocoa Item`, `Honey Recipe`, `Tea Item`?",
+      "why": "High betweenness centrality (0.072) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `AddEntryLootModifier` connect `Loot Modifiers` to `Block Registration`?",
+      "why": "High betweenness centrality (0.065) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `STUMP`, `BOTTOM`, `MIDDLE` to the rest of the system?",
+      "why": "37 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Block Registration` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06801346801346801 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Tea Block` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09268292682926829 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Tea Drink` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09102564102564102 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
