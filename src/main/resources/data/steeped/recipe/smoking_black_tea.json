@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "tag": "c:crops/tea"
+  },
+  "result": {
+    "id": "steeped:black_tea",
+    "count": 1
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

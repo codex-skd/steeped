@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["sss", " s ", "sss"],
+  "key": {
+    "s": { "item": "steeped:tea_stick" }
+  },
+  "result": {
+    "id": "steeped:tea_fence_gate",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": { "item": "steeped:unfired_teapot" },
+  "result": { "id": "steeped:teapot", "count": 1 },
+  "experience": 0.35,
+  "cookingtime": 300
+}

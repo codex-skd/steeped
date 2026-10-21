@@ -1,0 +1,7 @@
+{
+  "type": "steeped:shapeless_honey",
+  "group": "steeped:with_honey",
+  "tea": "steeped:cup_tea_floral",
+  "honey": { "item": "minecraft:honey_bottle" },
+  "tag": "with_honey"
+}

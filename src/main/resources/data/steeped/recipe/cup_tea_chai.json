@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    { "item": "steeped:cup" },
+    { "item": "steeped:teabag_black" },
+    { "item": "steeped:tea_stick" },
+    { "item": "steeped:teapot_frothed" }
+  ],
+  "result": { "id": "steeped:cup_tea_chai", "count": 1 }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "steeped:cup_tea_green",
+    "steeped:cup_tea_black",
+    "steeped:cup_tea_iced",
+    "steeped:cup_tea_chai",
+    "steeped:cup_tea_chorus"
+  ]
+}

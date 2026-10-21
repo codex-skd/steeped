@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+displayURL="https://gitlab.com/stalking-dragons/minecraft/steeped"
+logoFile="icon.png"
+credits="Port of Simply Tea (MIT) by Elucent (original mod and most textures) and KnightMiner. Port by Stalking Dragons."
+authors="Stalking Dragons; original Simply Tea by Elucent, KnightMiner"
+description='''Tea trees, teapots and a handful of brews with their own effects. A NeoForge 1.21.1 port of Simply Tea by Elucent and KnightMiner.'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["CBC", " C "],
+  "key": {
+    "C": { "item": "minecraft:clay_ball" },
+    "B": { "item": "minecraft:bone_meal" }
+  },
+  "result": {
+    "id": "steeped:unfired_cup",
+    "count": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "steeped:tea_stick"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:apply_bonus",
+              "enchantment": "minecraft:fortune",
+              "formula": "minecraft:binomial_with_bonus_count",
+              "parameters": { "probability": 0.55, "extra": 2 }
+            }
+          ],
+          "name": "steeped:tea_stick"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:all_of",
+          "terms": [
+            { "condition": "minecraft:inverted", "term": { "condition": "minecraft:block_state_property", "block": "steeped:tea_trunk", "properties": { "clipped": "true" } } },
+            { "condition": "minecraft:survives_explosion" }
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "steeped:blocks/leaves_tea"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "steeped:blocks/tea_trunk"
+}

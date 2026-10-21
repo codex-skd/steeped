@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "ingredient": { "item": "steeped:teapot_milk" },
+  "result": { "id": "steeped:teapot_frothed", "count": 1 },
+  "experience": 0.35,
+  "cookingtime": 900
+}
